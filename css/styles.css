@@ -17,14 +17,26 @@ h5 {
   margin-bottom: -40px;
 }
 
-#oei {
-  margin-bottom: px;
-}
-
 button {
   width: 705px;
 }
 
-/*footer {
-  color: #a2d2d;
-}*/
+footer {
+  color: #a2d2db;
+}
+
+.lightline {
+  border-color: #a2d2db;
+}
+
+form {
+  background-color: #a2d2db;
+}
+
+input {
+  color: #fff;
+}
+
+textarea {
+  color: #fff;
+}
