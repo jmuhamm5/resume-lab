@@ -9,5 +9,10 @@ nav {
 
 .col.s6 {
   padding-right: 20px;
-  padding-left: 20px;  
+  padding-left: 20px;
+}
+
+h5 {
+  font-weight: bolder;
+  margin-bottom: -40px;
 }
