@@ -27,7 +27,8 @@ footer {
 }
 
 .lightline {
-  border-color: #a2d2db;
+  /*border-color: #a2d2db;*/
+  border: 1px solid #a2d2db;
 }
 
 textarea {
@@ -35,18 +36,10 @@ textarea {
     height: 9.375rem;
     padding: .75rem 1.25rem;
     box-sizing: border-box;
-    border: .125rem solid #fff;
+    border: .125rem solid #a2d2db;
     border-radius: 0.25rem;
-    background-color: #a2d2db;
+    background-color: #fff;
     resize: none;
-}
-
-input {
-  color: #fff;
-}
-
-textarea {
-  color: #fff;
 }
 
 .date {
@@ -68,7 +61,7 @@ textarea {
   margin: -1.25rem 0;
 }
 
-input[type=text] {
+input[type=text], input[type=email] {
     width: 100%;
     padding: .75rem 1.25rem;
     margin: .5rem 0;
