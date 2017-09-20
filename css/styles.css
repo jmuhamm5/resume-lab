@@ -27,7 +27,7 @@ footer {
 }
 
 .lightline {
-  /*border-color: #a2d2db;*/
+
   border: 1px solid #a2d2db;
 }
 
@@ -99,4 +99,13 @@ input[type=submit]:hover {
 
 a {
   color: #a2d2db;
+}
+
+form {
+  border-top: 10px;
+  border-bottom: 30px;
+  margin-left: 70px;
+  padding-left: 20px;
+  margin-right: 70px;
+  padding-right: 20px;
 }
